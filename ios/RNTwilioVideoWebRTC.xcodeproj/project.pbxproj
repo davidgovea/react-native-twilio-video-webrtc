@@ -278,10 +278,9 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)",
 					"$(PROJECT_DIR)/../../../ios/Frameworks/**",
-					"$(PROJECT_DIR)/../../../ios/Pods/**",
+					"$(PROJECT_DIR)/../../../ios/Pods",
 				);
 				HEADER_SEARCH_PATHS = (
-					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
 					"${SRCROOT}/../../../ios/Pods/Headers/Public/**",
 				);
@@ -300,10 +299,9 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)",
 					"$(PROJECT_DIR)/../../../ios/Frameworks/**",
-					"$(PROJECT_DIR)/../../../ios/Pods/**",
+					"$(PROJECT_DIR)/../../../ios/Pods",
 				);
 				HEADER_SEARCH_PATHS = (
-					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
 					"${SRCROOT}/../../../ios/Pods/Headers/Public/**",
 				);
